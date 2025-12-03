@@ -2,7 +2,7 @@
 
 client_id = "27156e74e315cd552807ac7c3ee91f84"
 name = "customapp"
-application_url = "https://example.com"
+application_url = "shopify-app-template-node-production-a860.up.railway.app"
 embedded = true
 
 [build]
@@ -18,3 +18,4 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [ "https://example.com/api/auth" ]
+HOST=https://shopify-app-template-node-production-a860.up.railway.app
